@@ -1,0 +1,18 @@
+/****************************
+    Universal Styles
+****************************/
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    background: #080808;
+    color: #fff;
+}
